@@ -7,7 +7,7 @@ $font-text: 'Titillium Web', sans-serif;
 }
 
 body {
-  margin-left: 20px;
+  margin-left: 30px;
   font-size: 16px;
   color: black;
   font-family: $font-text;
@@ -17,7 +17,6 @@ body {
   max-width: 1140px;
   padding: 20px 20px;
   margin: 0 auto;
-  border: 1px solid red;
 }
 
 .title {
@@ -33,5 +32,6 @@ body {
 .text {
   font-size: 14px;
   font-style: italic;
+  padding-left: 20px;
 
 }
